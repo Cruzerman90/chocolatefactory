@@ -7,7 +7,11 @@ Project 2
 * Run npm install in terminal. got to this link.
 * Create a username and password.
 * Create a new chatroom or go to an existing one.
-### technology used 
+
+Example
+
+![LoginPage](/images/login.png)
+
 
 ### Open Chat Environment
   * Pick a topic to discuss.
@@ -16,7 +20,8 @@ Project 2
 
 Example
 
-![concert-this](/images/concert-this.png)
+![Chatapp](/images/create.png)
+![Chatapp](/images/chat.png)
 
 ### Technologies Used
   * JavaScript
@@ -27,7 +32,7 @@ Example
   * Chai.js
 
 
-====================================================================================
+===========================================================================
 ### Proposal
 
 * Target Audience: varying focus based on which forum
@@ -39,6 +44,9 @@ Example
 #### Overview
 
 In this project, we offer an open environment to discuss topics with like minded individuals that must fo through a login authentication
+
+#### Git Hub Repo
+* https://github.com/bburwell91/Project-2
 
 #### Markdown Benefits
 In order to meet the Employer Competitive standards and be ready to show your application to employers, the README.md file should meet the following criteria:
